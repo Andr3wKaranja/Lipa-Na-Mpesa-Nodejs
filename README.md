@@ -18,5 +18,5 @@ Todo:
 
 [x] Add a route to handle the OAuth request.
 [x] Add a route  to handle the payment request, confirmation or payment failure.
-[x] Add a route handle the .
+[x] Add a route to handle the Callback URL.
 [] Create a Callback URL for Daraja API with Firebase Cloud Functions in NodeJs
