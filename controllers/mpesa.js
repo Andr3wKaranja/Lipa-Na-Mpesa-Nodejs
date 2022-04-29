@@ -22,7 +22,6 @@ class MpesaController {
 	let auth = `Basic ${buffer.toString('base64')}`;
 
 	// Use try catch block to communicate with daraja API
-	
 	try{
 
 		let {data} = await axios.get(url, {

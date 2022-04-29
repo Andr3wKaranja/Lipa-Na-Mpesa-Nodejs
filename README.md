@@ -4,6 +4,7 @@ Steps for using Lipa na Mpesa Starter-Kit
 * Clone the repository.
 * Run the following command:
 `npm install`
+
 Go through the `index.js` file.
 
 * Provide your credentials on the `.env` file.
@@ -16,7 +17,7 @@ Go through the `index.js` file.
 
 Todo:
 
-[x] Add a route to handle the OAuth request.
-[x] Add a route  to handle the payment request, confirmation or payment failure.
-[x] Add a route to handle the Callback URL.
-[] Create a Callback URL for Daraja API with Firebase Cloud Functions in NodeJs
+* [x] Add a route to handle the OAuth request.
+* [x] Add a route  to handle the payment request, confirmation or payment failure.
+* [x] Add a route to handle the Callback URL.
+* [ ] Create a Callback URL for Daraja API with Firebase Cloud Functions in NodeJs
